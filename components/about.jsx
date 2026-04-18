@@ -1,3 +1,4 @@
+"use client"
 export default function AboutUs() {
     return (
         <div id="about" className="py-2">
